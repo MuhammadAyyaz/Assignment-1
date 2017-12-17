@@ -25,7 +25,7 @@ elif alien_color == 'red':
 else:
 	print(' ')
 	
-
+#ex:5.6
 age=25
 if age < 2:
 	print('this is a baby')
